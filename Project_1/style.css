@@ -1,0 +1,29 @@
+body{
+    background: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/F403/production/_109476426_jheison3.png");
+    background-size: cover;
+}
+a{
+    color: white;
+    font-size: 18px;}
+h1{
+    font-size: 132px;
+    color: black;
+    text-align: center;}
+h2{
+    font-size: 76px;
+    color: black;
+    text-align: center;}
+.folio{
+    font-size: 22px;
+    color: rgb(210, 212, 91);
+    margin-top: -50px;
+    margin-left: 50px;}
+ul .menu, li{
+    display: inline-block;  }
+.menu, a{
+    text-decoration: none; }
+nav{
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 50px;
+}
